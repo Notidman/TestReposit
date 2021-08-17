@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("%s%c", "Hello, Git!", '\n');
+	return 0;
 }
